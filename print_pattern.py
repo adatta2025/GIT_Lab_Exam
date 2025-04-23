@@ -1,4 +1,5 @@
 print('\nProgram to Print Character Patterns\n')
+print("\n====================================\n")
 num_line_top = 7
 num_line_bot = 6
 ch_p = '$'
